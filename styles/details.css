@@ -12,6 +12,7 @@
 }
 
 .orders {
-    font-size: 20rem;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
